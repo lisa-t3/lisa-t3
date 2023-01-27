@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning a bit of different things in Tech
 
